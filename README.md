@@ -45,11 +45,23 @@
 <!-- WakaTime статистика - нужно подключить сервис --> <img src="https://wakatime.com/share/Dimabioluwix/21930d68-5a0c-4e4c-8e4a-5c3f4e8f1a2b.svg" width="70%" /> <!-- Или компактный вариант: --> <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dimabioluwix&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b" /> --></div>
 </div>
 
+
+
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=316mazu6fblgryn3na4ma4fpowzi">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=316mazu6fblgryn3na4ma4fpowzi" alt="Data Card for Spotify">
 </a>
 
-<a href="https://www.last.fm/user/ТВОЙ_USERNAME" target="_blank">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Dima222s&redirect=true" />
-</a>
-<img src="https://lastfm-recently-played.vercel.app/api?user=Dima222s&count=3" alt="Recent listens" />
+<div align="center">
+  <h3>🎵 DiMa's Spotify Data</h3>
+  <h4>📜 Recently Played Tracks</h4>
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user=Dima222s&hide_title=1&hide_border=1&limit=3" />
+</div>
+
+<div align="centerr">
+  <h3>🎵 DiMa's Spotify Data</h3>
+  <h4>🎧 Currently Listening To</h4>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Dimabioluwix&redirect=true" width="400" />
+  
+  <h4>📜 Recently Played Tracks</h4>
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user=Dimabioluwix&hide_title=1&hide_border=1&limit=3" />
+</div>
