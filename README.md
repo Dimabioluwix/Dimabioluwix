@@ -1,4 +1,4 @@
-[Header]
+[![Header](https://github.com/Dimabioluwix/Dimabioluwix/blob/main/assets/picture.jpg)](https://www.youtube.com/@CHEDY)
 
 ## Я чувак который что-то делает интересное
 
