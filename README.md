@@ -8,7 +8,8 @@
     <span style="color: #ffe66d;">Dude</span>
     <span style="color: #ff6b6b;">✨</span>
   </h1>
-### Languages and tools
+
+### 🛠️ Языки программирования и инструменты
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vue-4fc08d?logo=vuedotjs&logoColor=white&style=for-the-badge" />
@@ -41,7 +42,7 @@
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dimabioluwix&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimabioluwix&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b" />
+<!-- WakaTime статистика - нужно подключить сервис --> <img src="https://wakatime.com/share/Dimabioluwix/21930d68-5a0c-4e4c-8e4a-5c3f4e8f1a2b.svg" width="70%" /> <!-- Или компактный вариант: --> <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dimabioluwix&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b" /> --></div>
 </div>
-
 
 
