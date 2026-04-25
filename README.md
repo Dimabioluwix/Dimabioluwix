@@ -30,7 +30,6 @@
 ## 🔗 Мои контакты
 
 <div align="center">
-  <a href="https://t.me/DimaArefev" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" /></a>&nbsp;
   <a href="https://www.faceit.com/ru/players/_CHEDY_" target="_blank"><img src="https://img.shields.io/badge/FACEIT-FF4500?logo=faceit&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.instagram.com/bubblegum17zz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>&nbsp;
   <a href="https://steamcommunity.com/id/ProHeadShotMonster/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge" /></a>&nbsp;
