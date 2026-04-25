@@ -31,6 +31,7 @@
 
 <div align="center">
   <a href="https://t.me/DimaArefev" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" /></a>&nbsp;
+  <a href="https://www.faceit.com/ru/players/_CHEDY_" target="_blank"><img src="https://img.shields.io/badge/FACEIT-FF4500?logo=faceit&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.instagram.com/bubblegum17zz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>&nbsp;
   <a href="https://steamcommunity.com/id/ProHeadShotMonster/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge" /></a>&nbsp;
   <a href="https://vk.com/jumpcurry" target="_blank"><img src="https://img.shields.io/badge/VK-0077FF?logo=vk&logoColor=white&style=for-the-badge" /></a>&nbsp;
@@ -51,9 +52,3 @@
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=316mazu6fblgryn3na4ma4fpowzi">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=316mazu6fblgryn3na4ma4fpowzi" alt="Data Card for Spotify">
 </a>
-
-<div align="center">
-  <h3>🎵 DiMa's Spotify Data</h3>
-  <h4>📜 Recently Played Tracks</h4>
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user=316mazu6fblgryn3na4ma4fpowzi&hide_title=1&hide_border=1&limit=3" />
-</div>
