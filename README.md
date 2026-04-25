@@ -35,6 +35,7 @@
   <a href="https://steamcommunity.com/id/ProHeadShotMonster/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge" /></a>&nbsp;
   <a href="https://vk.com/jumpcurry" target="_blank"><img src="https://img.shields.io/badge/VK-0077FF?logo=vk&logoColor=white&style=for-the-badge" /></a>&nbsp;
   <img src="https://img.shields.io/badge/Discord-thecoverhero-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
+  <a href="https://www.twitch.tv/awo0" target="_blank"><img src="https://img.shields.io/badge/Twitch-awo0-9146FF?logo=twitch&logoColor=white&style=for-the-badge" /></a>
 </div>
 
 
