@@ -12,11 +12,16 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vue-4fc08d?logo=vuedotjs&logoColor=white&style=for-the-badge" />
+
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" />
+
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" />
 </p>
 
@@ -24,20 +29,12 @@
 ## 🔗 Мои контакты
 
 <div align="center">
-  <a href="t.me/DimaArefev" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge&logoWidth=30" />
-  </a>
-  <a href="https://www.instagram.com/bubblegum17zz/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://steamcommunity.com/id/ProHeadShotMonster/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge" />
-<a href="vk.com/jumpcurry" target="_blank">
-    <img src="https://img.shields.io/badge/VK-0077FF?logo=vk&logoColor=white&style=for-the-badge" />
-  </a>
+  <a href="https://t.me/DimaArefev" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" /></a>&nbsp;
+  <a href="https://www.instagram.com/bubblegum17zz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>&nbsp;
+  <a href="https://steamcommunity.com/id/ProHeadShotMonster/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge" /></a>&nbsp;
+  <a href="https://vk.com/jumpcurry" target="_blank"><img src="https://img.shields.io/badge/VK-0077FF?logo=vk&logoColor=white&style=for-the-badge" /></a>&nbsp;
   <img src="https://img.shields.io/badge/Discord-thecoverhero-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
 </div>
-
 
 
 ## 📊 Моя статистика
