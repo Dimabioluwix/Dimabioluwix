@@ -54,14 +54,14 @@
 <div align="center">
   <h3>🎵 DiMa's Spotify Data</h3>
   <h4>📜 Recently Played Tracks</h4>
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user=Dima222s&hide_title=1&hide_border=1&limit=3" />
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user=316mazu6fblgryn3na4ma4fpowzi&hide_title=1&hide_border=1&limit=3" />
 </div>
 
 <div align="centerr">
   <h3>🎵 DiMa's Spotify Data</h3>
   <h4>🎧 Currently Listening To</h4>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Dimabioluwix&redirect=true" width="400" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=316mazu6fblgryn3na4ma4fpowzi&redirect=true" width="400" />
   
   <h4>📜 Recently Played Tracks</h4>
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user=Dimabioluwix&hide_title=1&hide_border=1&limit=3" />
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user=316mazu6fblgryn3na4ma4fpowzi&hide_title=1&hide_border=1&limit=3" />
 </div>
