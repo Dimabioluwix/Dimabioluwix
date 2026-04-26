@@ -54,10 +54,4 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316mazu6fblgryn3na4ma4fpowzi&unique={true|1|on|yes})
 
-![Top Tracks](https://spotify-recently-played-readme.vercel.app/api?spotify_token=316mazu6fblgryn3na4ma4fpowzi&type=tracks&timeRange=short_term)
-
-## 🎧 Сейчас слушаю на Spotify
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?spotify_token=316mazu6fblgryn3na4ma4fpowzi)
-
-### 📊 Мой музыкальный вкус
-![Top Artists 4 Weeks](https://spotify-recently-played-readme.vercel.app/api?spotify_token=316mazu6fblgryn3na4ma4fpowzi&type=artists&size=8)
+![Last.fm](https://lastfm.freak.hu/weekly?user=Dima222s)
