@@ -63,11 +63,8 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316mazu6fblgryn3na4ma4fpowzi&unique={true|1|on|yes})
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dimabioluwix/Dimabioluwix/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dimabioluwix/Dimabioluwix/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dimabioluwix/Dimabioluwix/output/pacman-contribution-graph.svg">
-</picture>
 
 <img src="https://raw.githubusercontent.com/Dimabioluwix/Dimabioluwix/output/snake.svg" alt="Snake animation" />
 </div>
+
+![Spotify Playing](https://spotify-recently-played-readme.vercel.app/api?spotify_token=316mazu6fblgryn3na4ma4fpowzi&cover_art=true&cover_art_size=2)
