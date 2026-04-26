@@ -63,5 +63,5 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316mazu6fblgryn3na4ma4fpowzi&unique={true|1|on|yes})
 
-![WakaTime](https://wakatime.com/share/@29a8582a-d5ad-4569-b96d-f0c2756cc405/1d2f3e4a-b5c6-7890.svg)
+![WakaTime](https://wakatime.com/share/@29a8582a-d5ad-4569-b96d-f0c2756cc405/public.svg)
 </div>
