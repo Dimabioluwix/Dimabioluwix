@@ -52,6 +52,22 @@
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=316mazu6fblgryn3na4ma4fpowzi" alt="Data Card for Spotify">
 </a> -->
 
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=footer&reversal=false&text=DiMa%20Arefyev%20%20presents&fontSize=67&fontColor=FFFFFF&fontAlign=50&fontAlignY=48&rotate=0&stroke=-&animation=twinkling&descSize=21&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+<div>
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316mazu6fblgryn3na4ma4fpowzi&unique={true|1|on|yes})
 
-![Last.fm](https://lastfm.freak.hu/weekly?user=Dima222s)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dimabioluwix/Dimabioluwix/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dimabioluwix/Dimabioluwix/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dimabioluwix/Dimabioluwix/output/pacman-contribution-graph.svg">
+</picture>
+
+<img src="https://raw.githubusercontent.com/Dimabioluwix/Dimabioluwix/output/snake.svg" alt="Snake animation" />
+</div>
