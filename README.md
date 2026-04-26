@@ -46,8 +46,12 @@
 <!-- WakaTime статистика - нужно подключить сервис --> <img src="https://wakatime.com/share/Dimabioluwix/21930d68-5a0c-4e4c-8e4a-5c3f4e8f1a2b.svg" width="70%" /> <!-- Или компактный вариант: --> <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dimabioluwix&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b" /> --></div>
 </div>
 
-
+<img src="https://komarev.com/ghpvc/?username=Dimabioluwix&label=👁️%20Просмотров&color=ff6b6b&style=flat-square" />
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=316mazu6fblgryn3na4ma4fpowzi">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=316mazu6fblgryn3na4ma4fpowzi" alt="Data Card for Spotify">
 </a>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316mazu6fblgryn3na4ma4fpowzi)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316mazu6fblgryn3na4ma4fpowzi&unique={true|1|on|yes})
