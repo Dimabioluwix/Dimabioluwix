@@ -43,15 +43,21 @@
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dimabioluwix&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimabioluwix&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b" />
-<!-- WakaTime статистика - нужно подключить сервис --> <img src="https://wakatime.com/share/Dimabioluwix/21930d68-5a0c-4e4c-8e4a-5c3f4e8f1a2b.svg" width="70%" /> <!-- Или компактный вариант: --> <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dimabioluwix&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b" /> --></div>
+<!-- WakaTime статистика - нужно подключить сервис --> <img src="https://wakatime.com/share/Dimabioluwix/21930d68-5a0c-4e4c-8e4a-5c3f4e8f1a2b.svg" width="70%" /> <!-- Или компактный вариант: --> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dimabioluwix&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b" /></div>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Dimabioluwix&label=👁️%20Просмотров&color=ff6b6b&style=flat-square" />
 
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=316mazu6fblgryn3na4ma4fpowzi">
+
+<!-- <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=316mazu6fblgryn3na4ma4fpowzi">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=316mazu6fblgryn3na4ma4fpowzi" alt="Data Card for Spotify">
-</a>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316mazu6fblgryn3na4ma4fpowzi)
+</a> -->
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316mazu6fblgryn3na4ma4fpowzi&unique={true|1|on|yes})
+
+![Top Tracks](https://spotify-recently-played-readme.vercel.app/api?spotify_token=316mazu6fblgryn3na4ma4fpowzi&type=tracks&timeRange=short_term)
+
+## 🎧 Сейчас слушаю на Spotify
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?spotify_token=316mazu6fblgryn3na4ma4fpowzi)
+
+### 📊 Мой музыкальный вкус
+![Top Artists 4 Weeks](https://spotify-recently-played-readme.vercel.app/api?spotify_token=316mazu6fblgryn3na4ma4fpowzi&type=artists&size=8)
