@@ -59,12 +59,9 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=footer&reversal=false&text=DiMa%20Arefyev%20%20presents&fontSize=67&fontColor=FFFFFF&fontAlign=50&fontAlignY=48&rotate=0&stroke=-&animation=twinkling&descSize=21&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-<div>
+<div class="2">
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316mazu6fblgryn3na4ma4fpowzi&unique={true|1|on|yes})
 
-
-<img src="https://raw.githubusercontent.com/Dimabioluwix/Dimabioluwix/output/snake.svg" alt="Snake animation" />
+![WakaTime](https://wakatime.com/share/@29a8582a-d5ad-4569-b96d-f0c2756cc405/1d2f3e4a-b5c6-7890.svg)
 </div>
-
-![Spotify Playing](https://spotify-recently-played-readme.vercel.app/api?spotify_token=316mazu6fblgryn3na4ma4fpowzi&cover_art=true&cover_art_size=2)
