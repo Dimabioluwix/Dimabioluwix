@@ -41,9 +41,8 @@
 
 ## 📊 Моя статистика
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dimabioluwix&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimabioluwix&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b" />
-<!-- WakaTime статистика - нужно подключить сервис --> <img src="https://wakatime.com/share/Dimabioluwix/21930d68-5a0c-4e4c-8e4a-5c3f4e8f1a2b.svg" width="70%" /> <!-- Или компактный вариант: --> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dimabioluwix&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b" /></div>
+[![wakatime](https://wakatime.com/badge/user/29a8582a-d5ad-4569-b96d-f0c2756cc405.svg)](https://wakatime.com/@29a8582a-d5ad-4569-b96d-f0c2756cc405)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316mazu6fblgryn3na4ma4fpowzi&unique={true|1|on|yes})
 </div>
 
 
@@ -59,9 +58,5 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=footer&reversal=false&text=DiMa%20Arefyev%20%20presents&fontSize=67&fontColor=FFFFFF&fontAlign=50&fontAlignY=48&rotate=0&stroke=-&animation=twinkling&descSize=21&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-<div class="2">
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316mazu6fblgryn3na4ma4fpowzi&unique={true|1|on|yes})
 
-![WakaTime](https://wakatime.com/share/@29a8582a-d5ad-4569-b96d-f0c2756cc405/public.svg)
-</div>
