@@ -42,6 +42,7 @@
 ## 📊 Моя статистика
 <div align="center">
 [![wakatime](https://wakatime.com/badge/user/29a8582a-d5ad-4569-b96d-f0c2756cc405.svg)](https://wakatime.com/@29a8582a-d5ad-4569-b96d-f0c2756cc405)
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316mazu6fblgryn3na4ma4fpowzi&unique={true|1|on|yes})
 </div>
 
