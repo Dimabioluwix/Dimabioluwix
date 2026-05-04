@@ -41,7 +41,11 @@
 
 ## 📊 Моя статистика
 <div align="center">
-<div>[![wakatime](https://wakatime.com/badge/user/29a8582a-d5ad-4569-b96d-f0c2756cc405.svg)](https://wakatime.com/@29a8582a-d5ad-4569-b96d-f0c2756cc405)</div>
+<div>
+В VScode:
+
+[![wakatime](https://wakatime.com/badge/user/29a8582a-d5ad-4569-b96d-f0c2756cc405.svg)](https://wakatime.com/@29a8582a-d5ad-4569-b96d-f0c2756cc405)
+</div>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316mazu6fblgryn3na4ma4fpowzi&unique={true|1|on|yes})
 </div>
